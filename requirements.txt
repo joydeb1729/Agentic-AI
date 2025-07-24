@@ -3,7 +3,8 @@ tiktoken
 langchainhub 
 chromadb 
 langchain 
-langgraph  
+langgraph
+langserve[all]  
 tavily-python
 python-dotenv
 google-generativeai
