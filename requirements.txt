@@ -10,6 +10,7 @@ python-dotenv
 google-generativeai
 langchain-google-genai
 langchain-groq
+langchain_tavily
 langchain-nomic
 langchain-text-splitters
 langchain_mistralai
