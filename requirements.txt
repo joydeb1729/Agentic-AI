@@ -1,7 +1,8 @@
 langchain_community 
 tiktoken  
 langchainhub 
-chromadb 
+chromadb
+langchain-chroma 
 langchain 
 langgraph
 langserve[all]  
