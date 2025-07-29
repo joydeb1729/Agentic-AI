@@ -1,0 +1,13 @@
+LLaMA 3 (Large Language Model Meta AI 3) is the third generation of open-source large language models developed by Meta (formerly Facebook). Released in 2024, LLaMA 3 models are designed to be competitive with proprietary models like OpenAI's GPT-4.
+
+Key points:
+
+Available in different sizes, including 8B and 70B parameters.
+
+Open-source and can be run locally or integrated into custom applications.
+
+Trained on a large corpus of high-quality data for better reasoning, coding, and multilingual capabilities.
+
+LLaMA 3 is widely used for research, development, and commercial applications where open and customizable models are preferred.
+
+
